@@ -1,0 +1,3 @@
+
+https://github.com/Lozbeneva/Qase.io-Excel-QA-Engineer.git
+https://github.com/kirillsanyagin/postman_final_examination.git
